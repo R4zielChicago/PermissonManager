@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">permission example</string>
+    <string name="permission_denied_never_ask_again_dialog_message">In order to use this app you must enable the permissions needed for it to function properly.</string>
+</resources>
