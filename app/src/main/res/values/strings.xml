@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">permission example</string>
     <string name="permission_denied_never_ask_again_dialog_message">In order to use this app you must enable the permissions needed for it to function properly.</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
 </resources>
